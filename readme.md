@@ -4,7 +4,7 @@ Hello <img src="images/waving-hand.gif" width="32px">
 My name is Patrick
 </h1>
 
-<img title="Sequence Diagram" alt="Sequence Diagram" src="images/sequence-diagram.svg">
+<img title="Sequence Diagram" alt="Sequence Diagram" src="images/sequence-diagram.png">
 
 ### Bio
 * :gear: Engineer
