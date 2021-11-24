@@ -11,8 +11,8 @@ What can we build together?
 ### Bio
 * :gear: Engineer
 * :arrow_right: Architect
-* :martial_arts_uniform: SQL ninja
-* :bar_chart: Data geek
+* :martial_arts_uniform: SQL Ninja
+* :bar_chart: Data Geek
 * :lock: Anti-hacker
 
 ### Contact
