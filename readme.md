@@ -1,10 +1,10 @@
 <h1 align="center">
-Hello <img src="https://raw.githubusercontent.com/pbierkortte/pbierkortte/8e83e80cd08badc33df18359da659e37824ab8b6/waving-hand.gif" width="32px">
+Hello <img src="images/waving-hand.gif" width="32px">
 
 My name is Patrick
-
-What can we build together?
 </h1>
+
+<img title="Sequence Diagram" alt="Sequence Diagram" src="images/sequence-diagram.svg">
 
 ### Bio
 * :gear: Engineer
