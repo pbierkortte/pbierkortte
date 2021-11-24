@@ -1,5 +1,5 @@
 <h1 align="center">
-Hello <img src="https://raw.githubusercontent.com/pbierkortte/pbierkortte/8e83e80cd08badc33df18359da659e37824ab8b6/waving-hand.gif" width="32px">
+Hello <img src="/waving-hand.gif" width="32px">
 
 My name is Patrick
 </h1>
