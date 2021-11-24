@@ -1,10 +1,10 @@
 <h1 align="center">
-Hello <img src="/waving-hand.gif" width="32px">
+Hello <img src="images/waving-hand.gif" width="32px">
 
 My name is Patrick
 </h1>
 
-<img title="Sequence Diagram" alt="Sequence Diagram" src="/sequence-diagram.svg">
+<img title="Sequence Diagram" alt="Sequence Diagram" src="images/sequence-diagram.svg">
 
 ### Bio
 * :gear: Engineer
