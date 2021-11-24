@@ -10,11 +10,11 @@ What can we build together?
 
 ### Bio
 * :gear: Engineer
-* Architect
-* SQL ninja
+* :arrow_right: Architect
+* :martial_arts_uniform: SQL ninja
 * :bar_chart: Data geek
 * :lock: Anti-hacker
 
 ### Contact
-* [Email](mailto:pbierkortte+u1dw9xe28@protonmail.com)
-* [Linkedin](linkedin.com/in/pbierkortte)
+* :email: [Email](mailto:pbierkortte+u1dw9xe28@protonmail.com)
+* :link: [Linkedin](linkedin.com/in/pbierkortte)
