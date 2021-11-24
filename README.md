@@ -15,6 +15,6 @@ What can we build together?
 
 ### Contact
 * :email: [Email](mailto:pbierkortte+u1dw9xe28@protonmail.com)
-* :link: [Linkedin](linkedin.com/in/pbierkortte)
+* :link: [Linkedin](https://www.linkedin.com/in/pbierkortte)
 
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/kvznbkuddqzzm08c88ak" width="1" height="1"/>
