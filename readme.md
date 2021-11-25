@@ -11,7 +11,7 @@ My name is Patrick
 * :arrow_right: Architect
 * :martial_arts_uniform: SQL Ninja
 * :bar_chart: Data Geek
-* :lock: Anti-hacker
+* :smile: Marketer
 
 ### Contact
 * :email: [Email](mailto:pbierkortte+u1dw9xe28@protonmail.com)
