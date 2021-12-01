@@ -21,7 +21,7 @@ My name is Patrick
 * FaaS | PaaS | SaaS | MVC | API Gateway | GraphQL | REST
 * Sparx Systems Enterprise Architect | Miro
 ### Language
-Programming | Spoken
+#### Programming | Spoken
 * Python | SQL | JavaScript | Java | C | C++ | C# | R | HTML | CSS | Bash
 * English (fluent) | Bosnian (learning)
 ### Technology
