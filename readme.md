@@ -17,7 +17,7 @@ My name is Patrick
 
 ## SKILLS
 ### Architecture
-#### Pattern | UML
+#### UML | Pattern
 * FaaS | PaaS | SaaS | MVC | API Gateway | GraphQL | REST
 * Sparx Systems Enterprise Architect | ERwin Data Modeler | Miro
 ### Language
