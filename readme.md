@@ -27,7 +27,7 @@ My name is Patrick
 ### Technology
 #### BI | Analytics
 * Tableau | Looker | PowerBI | SSRS | Crystal Reports
-* Pandas | Jupyter | SSIS | Talend
+* Apache Airflow | Pandas | Jupyter | SSIS | Talend
 #### NoSQL | RDBMS
 * MongoDB | Amazon DynamoDB | Azure Cosmos DB
 * Snowflake DWH | Microsoft SQL Server | Oracle | Postgres | MySQL
