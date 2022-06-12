@@ -1,5 +1,5 @@
 <h1 align="center">
-Hello <img src="images/waving-hand.gif" width="32px">
+Hello <img src="images/waving-hand.gif" width="3%">
 
 My name is Patrick
 </h1>
