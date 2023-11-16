@@ -27,10 +27,10 @@ My name is Patrick
 ### Technology
 #### BI | Analytics
 * Tableau | Looker | PowerBI | SSRS | Crystal Reports
-* Apache Airflow | Pandas | Jupyter | SSIS | Talend
+* Apache Airflow | DBT | Pandas | Jupyter | SSIS | Talend
 #### NoSQL | RDBMS
 * MongoDB | Amazon DynamoDB | Azure Cosmos DB
-* Snowflake DWH | Microsoft SQL Server | Oracle | Postgres | MySQL
+* Google BigQuery | Snowflake DWH | Microsoft SQL Server | Oracle | Postgres | MySQL
 #### DevOps | Infrastructure
 * Kubernetes | Terraform | Linux | Git | Docker | AWS | Azure | GCP | Rackspace
 * Windows Server | Hyper-V | VMware | Azure Migrate | Azure Site Recovery
