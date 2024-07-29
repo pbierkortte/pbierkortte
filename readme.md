@@ -4,20 +4,24 @@ Hello <img src="images/waving-hand.gif" width="3%">
 I'm Pat
 </h1>
 
-## Contact 
-* :email: [Email](mailto:hello@patbierkortte.com)
-* :link: [LinkedIn](https://www.linkedin.com/in/pbierkortte)
-* :octocat: [GitHub](https://github.com/pbierkortte)
-
-## About Me
-Seasoned Data Engineer and Solution Architect with experience in designing and implementing robust data systems. Proven track record in optimizing data pipelines, driving innovation, and solving complex data challenges across various industries. Expertise in cloud platforms, SQL, and modern data stack technologies, combined with a strategic approach to data architecture and a knack for translating technical solutions into business value. Enthusiastic about leveraging Generative AI to enhance data-driven decision making.
+## Contact
+<p style="text-align: center;">
+  :email: [Email](mailto:hello@patbierkortte.com)&nbsp;&nbsp;&nbsp;&nbsp;
+  :octocat: [GitHub](https://github.com/pbierkortte)&nbsp;&nbsp;&nbsp;&nbsp;
+  :link: [LinkedIn](https://www.linkedin.com/in/pbierkortte)
+</p>
 
 ## Summary
-* :gear: Engineer
-* :arrow_up: Architect
-* :martial_arts_uniform: SQL Ninja
-* :bar_chart: Data Geek
-* :smile: Marketer
+Seasoned Data Engineer and Solution Architect with experience in designing and implementing robust data systems. Proven track record in optimizing data pipelines, driving innovation, and solving complex data challenges across various industries. Expertise in cloud platforms, SQL, and modern data stack technologies, combined with a strategic approach to data architecture and a knack for translating technical solutions into business value. Enthusiastic about leveraging Generative AI to enhance data-driven decision making.
+
+<p style="text-align: center;">
+  :sparkles: AI Pioneer&nbsp;&nbsp;&nbsp;
+  :gear: Engineer&nbsp;&nbsp;&nbsp;
+  :arrow_up: Architect&nbsp;&nbsp;&nbsp;
+  :martial_arts_uniform: SQL Ninja&nbsp;&nbsp;&nbsp;
+  :bar_chart: Data Geek&nbsp;&nbsp;&nbsp
+  :smile: Marketer
+</p>
 
 ## SKILLS
 ### Data Engineering & Analytics
