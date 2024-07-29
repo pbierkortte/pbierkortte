@@ -35,7 +35,7 @@ I'm Pat
 
 ### Architecture & Development
 * Miro | Sparx Systems Enterprise Architect | API Design (REST, GraphQL)
-* Python | JavaScript | Java | C | C++ | C# * R | HTML | CSS | Bash
+* Python | JavaScript | Java | C | C++ | C# | R | HTML | CSS | Bash
 
 ### IT Infrastructure
 * Active Directory | Group Policy | DNS | Exchange | JIRA Insight
