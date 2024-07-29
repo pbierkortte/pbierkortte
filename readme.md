@@ -6,15 +6,15 @@ I'm Pat
 
 ## Contact
 <p style="text-align: center;">
-  :email: [Email](mailto:hello@patbierkortte.com)&nbsp;&nbsp;&nbsp;&nbsp;
-  :octocat: [GitHub](https://github.com/pbierkortte)&nbsp;&nbsp;&nbsp;&nbsp;
-  :link: [LinkedIn](https://www.linkedin.com/in/pbierkortte)
+  [Email](mailto:hello@patbierkortte.com)&nbsp;&nbsp;&nbsp;&nbsp;
+  [Github](https://github.com/pbierkortte)&nbsp;&nbsp;&nbsp;&nbsp;
+  [LinkedIn](https://www.linkedin.com/in/pbierkortte)
 </p>
 
 ## Summary
 Seasoned Data Engineer and Solution Architect with experience in designing and implementing robust data systems. Proven track record in optimizing data pipelines, driving innovation, and solving complex data challenges across various industries. Expertise in cloud platforms, SQL, and modern data stack technologies, combined with a strategic approach to data architecture and a knack for translating technical solutions into business value. Enthusiastic about leveraging Generative AI to enhance data-driven decision making.
 
-<p style="text-align: center;">
+<p style="text-align: native;">
   :sparkles: AI Pioneer&nbsp;&nbsp;&nbsp;
   :gear: Engineer&nbsp;&nbsp;&nbsp;
   :arrow_up: Architect&nbsp;&nbsp;&nbsp;
