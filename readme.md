@@ -19,7 +19,7 @@ Seasoned Data Engineer and Solution Architect with experience in designing and i
   :gear: Engineer&nbsp;&nbsp;&nbsp;
   :arrow_up: Architect&nbsp;&nbsp;&nbsp;
   :martial_arts_uniform: SQL Ninja&nbsp;&nbsp;&nbsp;
-  :bar_chart: Data Geek&nbsp;&nbsp;&nbsp
+  :bar_chart: Data Geek&nbsp;&nbsp;&nbsp;
   :smile: Marketer
 </p>
 
