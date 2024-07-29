@@ -10,8 +10,7 @@ I'm Pat
 * [LinkedIn](https://www.linkedin.com/in/pbierkortte)
 
 ## Bio
-**Seasoned Data Engineer and Solution Architect with experience in designing and implementing robust data systems. Proven track record in optimizing data pipelines, driving innovation, and solving complex data challenges across various industries. Expertise in cloud platforms, $${\color{blue}SQL}$$, and modern data stack technologies, combined with a strategic approach to data architecture and a knack for translating technical solutions into business value. Enthusiastic about leveraging $${\color{blue}Generative \space AI}$$ to enhance data-driven decision making.**
-
+**Seasoned Data Engineer and Solution Architect with experience in designing and implementing robust data systems. Proven track record in optimizing data pipelines, driving innovation, and solving complex data challenges across various industries. Expertise in cloud platforms, <strong style="color: blue;">SQL</strong>, and modern data stack technologies, combined with a strategic approach to data architecture and a knack for translating technical solutions into business value. Enthusiastic about leveraging <strong style="color: blue;">Generative AI</strong> to enhance data-driven decision making.**
 
 ## Summary
 * :sparkles: AI Pioneer
