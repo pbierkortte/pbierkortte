@@ -5,7 +5,7 @@ I'm Pat
 </h1>
 
 ## Contact
-<p style="text-align: center;">
+<p style="text-align: native;">
   [Email](mailto:hello@patbierkortte.com)&nbsp;&nbsp;&nbsp;&nbsp;
   [Github](https://github.com/pbierkortte)&nbsp;&nbsp;&nbsp;&nbsp;
   [LinkedIn](https://www.linkedin.com/in/pbierkortte)
