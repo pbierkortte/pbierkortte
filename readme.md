@@ -20,7 +20,7 @@ I'm Pat
 * :bar_chart: Data Geek
 * :smile: Marketer
 
-## SKILLS
+## Skills
 ### Data Engineering & Analytics
 * SQL | dbt | Apache Airflow | Pandas | Jupyter | Fivetran | RudderStack | Prefect
 * Tableau | Looker | PowerBI | Sigma | GoodData | Metabase
