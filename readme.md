@@ -9,6 +9,9 @@ I'm Pat
 * :link: [LinkedIn](https://www.linkedin.com/in/pbierkortte)
 * :octocat: [GitHub](https://github.com/pbierkortte)
 
+## About Me
+Seasoned Data Engineer and Solution Architect with experience in designing and implementing robust data systems. Proven track record in optimizing data pipelines, driving innovation, and solving complex data challenges across various industries. Expertise in cloud platforms, SQL, and modern data stack technologies, combined with a strategic approach to data architecture and a knack for translating technical solutions into business value. Enthusiastic about leveraging Generative AI to enhance data-driven decision making.
+
 ## Summary
 * :gear: Engineer
 * :arrow_up: Architect
