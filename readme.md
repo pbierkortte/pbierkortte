@@ -15,7 +15,7 @@ Innovative Data Engineer and Cloud Solutions Architect with a proven track recor
 ## Summary
 * :sparkles: AI Pioneer
 * :gear: Data Engineer
-* :arrow_up: Cloud Solutions Architect
+* :arrow_up: Cloud Architect
 * :martial_arts_uniform: SQL Ninja
 * :bar_chart: Data Geek
 * :smile: Marketer
