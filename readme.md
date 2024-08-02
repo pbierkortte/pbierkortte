@@ -10,7 +10,7 @@ I'm Pat
 * [LinkedIn](https://www.linkedin.com/in/pbierkortte)
 
 ## Bio
-Innovative Data Engineer and Cloud Solutions Architect with a proven track record of optimizing data systems for tech startups and Fortune 500 companies. Expertise in reducing operational costs and improving system performance through strategic implementation of modern data stack technologies. Passionate about leveraging **AI** to drive data-driven decision making and business growth.
+Innovative **Data Engineer* and Cloud **Solutions Architect** with a proven track record of optimizing data systems for tech startups and Fortune 500 companies. Expertise in reducing operational costs and improving system performance through strategic implementation of modern data stack technologies. Passionate about leveraging **AI** to drive data-driven decision making and business growth.
 
 ## Summary
 * :sparkles: AI Pioneer
