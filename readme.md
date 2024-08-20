@@ -10,7 +10,7 @@ I'm Pat
 * [LinkedIn](https://www.linkedin.com/in/pbierkortte)
 
 ## Bio
-Innovative **Data Engineer** and Cloud **Solutions Architect** with a proven track record of optimizing data systems for tech startups and Fortune 500 companies. Expertise in reducing operational costs and improving system performance through strategic implementation of modern data stack technologies. Passionate about leveraging **AI** to drive data-driven decision making and business growth.
+Versatile analytics professional with 10+ years of experience building and optimizing data systems for tech startups and Fortune 500 companies. Proven track record of slashing operational costs and boosting performance using modern data stack technologies like **Snowflake**, **DBT**, and **Airflow**. Directed cross-functional teams to deliver high-impact projects, including a dynamic pricing platform for a multi-billion dollar real estate portfolio that significantly increased occupancy rates. Passionate about leveraging **SQL**, **AI**, **machine learning**, and **cloud platforms** to spark data-driven innovation and accelerate business growth.
 
 ## Summary
 * :sparkles: AI Pioneer
@@ -21,23 +21,24 @@ Innovative **Data Engineer** and Cloud **Solutions Architect** with a proven tra
 * :smile: Marketer
 
 ## Skills
+
 ### Data Engineering & Analytics
-* SQL | dbt | Apache Airflow | Pandas | Jupyter | Fivetran | RudderStack | Prefect
-* Tableau | Looker | PowerBI | Sigma | GoodData | Metabase
-
-### Databases & Data Warehouses
-* Snowflake Data Platform | Microsoft SQL Server | Oracle | Postgres | MySQL | BigQuery
-* MongoDB | Amazon DynamoDB | Azure Cosmos DB
-
+* DBT | Airflow | Pandas | Jupyter | Spark | Kafka | Fivetran | Prefect
+* Tableau | Looker | Sigma | GoodData | Metabase
+      
+### Data Warehouses & Databases
+* Snowflake | BigQuery | Redshift | Microsoft SQL Server | Oracle
+* Neo4j | PostgreSQL | DynamoDB | MongoDB | MySQL
+      
 ### Cloud Platforms & DevOps
-* AWS | Azure | GCP | Kubernetes | Terraform | Docker
-* Git | CI/CD pipelines | Linux | Microservices
-
+* AWS | Azure | Google Cloud | Kubernetes | Terraform | Docker
+* Git | Linux | Helm | Serverless | Microservices | Datadog
+      
 ### Architecture & Development
 * Miro | Sparx Systems Enterprise Architect | API Design (REST, GraphQL)
-* Python | JavaScript | Java | C | C++ | C# | R | HTML | CSS | Bash
+* SQL | Python | JavaScript | Go | Ruby | Java | C# | R | HTML | CSS | Bash
 
-### IT Infrastructure
-* Active Directory | Group Policy | DNS | Exchange | JIRA Insight
+### Infrastructure & Networking
+* Active Directory | Group Policy | DNS | Exchange | Jira Insight
 
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/kvznbkuddqzzm08c88ak" width="1" height="1"/>
