@@ -6,7 +6,7 @@ I'm Pat
 
 ## Contact
 * [Email](mailto:hello@patbierkortte.com)
-* [Resume](https://www.patbierkortte.com/Bierkortte-Patrick-Resume.pdf)
+* [Resume](https://www.patbierkortte.com/Bierkortte-Pat-Resume.pdf)
 * [LinkedIn](https://www.linkedin.com/in/pbierkortte)
 
 ## Bio
