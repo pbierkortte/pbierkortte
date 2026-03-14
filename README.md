@@ -23,8 +23,8 @@ Versatile analytics professional with 10+ years of experience building and optim
 ## Skills
 
 ### Data Engineering & Analytics
-* DBT | Airflow | Pandas | Jupyter | Spark | Kafka | Fivetran | Prefect
-* Tableau | Looker | Sigma | GoodData | Metabase
+* DBT | Airflow | Databricks | Spark | Kafka | Glue | Fivetran
+* Tableau | Looker | Sigma | GoodData | Pandas | Prefect
       
 ### Data Warehouses & Databases
 * Snowflake | BigQuery | Redshift | Microsoft SQL Server | Oracle
