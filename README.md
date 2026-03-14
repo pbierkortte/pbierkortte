@@ -18,7 +18,7 @@ Versatile analytics professional with 10+ years of experience building and optim
 * :arrow_up: Cloud Architect
 * :martial_arts_uniform: SQL Ninja
 * :bar_chart: Data Geek
-* :smile: Marketer
+* :mega: Marketer
 
 ## Skills
 
