@@ -40,5 +40,3 @@ Versatile analytics professional with 10+ years of experience building and optim
 
 ### Infrastructure & Networking
 * Active Directory | Group Policy | DNS | Exchange | Jira Insight
-
-<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/kvznbkuddqzzm08c88ak" width="1" height="1"/>
